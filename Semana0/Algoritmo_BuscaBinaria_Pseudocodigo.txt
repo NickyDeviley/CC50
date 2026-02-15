@@ -1,0 +1,14 @@
+Algoritmo_BuscaBinaria_Pseudocodigo
+1 	Pegue a lista telefônica
+2 	Abra no meio da lista telefônica
+3 	Olhe para a página
+4 	Se a pessoa estiver na página
+5    	Ligar para pessoa
+6 	Caso contrário, se a pessoa estiver mais para o início do livro
+7    	Abrir no meio da metade esquerda do livro
+8    	Volte para a linha 3
+9 	Caso contrário, se a pessoa estiver mais para o final do livro
+10   	Abrir no meio da metade direita do livro
+11  	Volte para a linha 3
+12 	Caso contrário
+13   	Desistir
